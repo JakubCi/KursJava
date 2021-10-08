@@ -144,25 +144,47 @@ public class DemoApplication {
 		        
 		        
 // 			System.out.println(max);
-   //ZAD DOMOWE 3(Zrobione For'em)
+   //ZAD DOMOWE 3
+// int liczba = 8;
+
+//     	boolean Czy_pierwsza= true; 
+//         int i=2;
+//         while(i<Math.sqrt(liczba)){ 
+
+//  		    if((liczba % i == 0)){
+
+//  			    Czy_pierwsza = false; 
+//  		}
+//  		        i++;
+
+//  		}
+//  		if(Czy_pierwsza==true)
+//  		    System.out.println("Liczba Jest liczba pierwsza");
+
+//  			else 
+//  			    System.out.println("Liczba Nie jest liczba pierwsza");
+    //ZAD DOMOWE 4
+// 		int liczby;
 // 		int liczba = 3;
-		
+// 		for(int j=0;j<20;j++){
 // 		boolean Czy_pierwsza= true; 
 		
-// 		for(int i=2; i<Math.sqrt(liczba); i++){ 
+// 		for(int i=2; i<Math.sqrt(j); i++){ 
 		    
-// 		    if((liczba % i == 0)){
+// 		    if((j % i == 0)){
 		        
 		    
 // 			    Czy_pierwsza = false; 
 // 		}
 		
 // 		}
-// 		if(Czy_pierwsza==true)
-// 		    System.out.println("Liczba Jest liczba pierwsza");
+// 		if(Czy_pierwsza==true){
+// 		    System.out.println(j);
 		    
-// 			else 
-// 			    System.out.println("Liczba Nie jest liczba pierwsza");
+// 		}
+		    
+			    
+// 		}
 		
     }
 }
