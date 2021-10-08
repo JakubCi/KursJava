@@ -144,7 +144,25 @@ public class DemoApplication {
 		        
 		        
 // 			System.out.println(max);
-   //ZAD DOMOWE 3
+   //ZAD DOMOWE 3(Zrobione For'em)
+// 		int liczba = 3;
+		
+// 		boolean Czy_pierwsza= true; 
+		
+// 		for(int i=2; i<Math.sqrt(liczba); i++){ 
+		    
+// 		    if((liczba % i == 0)){
+		        
+		    
+// 			    Czy_pierwsza = false; 
+// 		}
+		
+// 		}
+// 		if(Czy_pierwsza==true)
+// 		    System.out.println("Liczba Jest liczba pierwsza");
+		    
+// 			else 
+// 			    System.out.println("Liczba Nie jest liczba pierwsza");
 		
     }
 }
