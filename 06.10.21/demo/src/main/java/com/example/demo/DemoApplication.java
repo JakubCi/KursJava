@@ -14,7 +14,7 @@ public class DemoApplication {
 	
             SpringApplication.run(DemoApplication.class, args);
             
-            //zmienne ca³kowitego: byte 1B, short 2B, int 4B, long 8B
+            //zmienne caÂ³kowitego: byte 1B, short 2B, int 4B, long 8B
             //zmienne zmiennoprzecinkowe: float 4B, double 8B
             //zmienna typu znakowego: char 1B
             //zmienna logiczna: boolean
@@ -31,7 +31,7 @@ public class DemoApplication {
             //operatory arytmetyczne: += -= /= %= ++ --
             //operatory logiczne: || && !
             //operatory bitowe:<< >> & | ^ ~
-            //operatory porównania: < > <= >= != ==
+            //operatory porÃ³wnania: < > <= >= != ==
 //            
 //            int liczba1=54;
 //            int liczba2=78;
@@ -122,19 +122,30 @@ public class DemoApplication {
     //lub
     
 //            System.out.println(Arrays.toString(tab));
-    int[] tab={2,13,42,23,15,64,-6,1};
-    int suma=0;
-    for(int i=0;i<tab.length;i++){
-        suma+=tab[i];
-    }
-            System.out.println(suma);
-            
-
-
-
-
-
-
+//     int[] tab={2,13,42,23,15,64,-6,1};
+//     int suma=0;
+//     for(int i=0;i<tab.length;i++){
+//         suma+=tab[i];
+//     }
+//             System.out.println(suma);
+   //ZAD DOMOWE 1         
+// 	int[] tab={1,2,3,4,6,7,8,34,45,56,67};
+// 		for(int i=tab.length-1;i>=0;i--){
+// 			System.out.println(tab[i]+" ");
+// 		}
+   //ZAD DOMOWE 2
+// int[] tab={1,2,3,50,6,7,87,34,45,56,67};
+//         int max=tab[0];
+// 		for(int i=1;i<tab.length;i++){
+//              if(max<tab[i]){
+// 		         max=tab[i];
+//              }
+// 		}
+		        
+		        
+// 			System.out.println(max);
+   //ZAD DOMOWE 3
+		
     }
 }
 
