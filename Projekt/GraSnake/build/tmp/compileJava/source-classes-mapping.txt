@@ -1,5 +1,0 @@
-GraSnake/MyJPanel.java
- GraSnake.MyJPanel
- GraSnake.MyJPanel$TAdapter
-GraSnake/Main.java
- GraSnake.Main
